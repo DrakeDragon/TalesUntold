@@ -202,3 +202,81 @@ The book now starts again as Tale II after realm 150. New trophy: Once More Upon
 - **Wardrobe.** 13 more hats, 9 more dyes, 8 more sleds and 8 more trails (Drifting Feathers, Golden Pollen, Tiny Lanterns, Paper Cranes, Sugar Sprinkles, Aurora Ribbon, Thunder Sparks, Lotus Drift).
 - **4 more Workshop upgrades.** Soft Slippers (perfect-landing window up to +41%), Giant-Slayer's Shield (boss slime waves up to 20% slower), Afterglow Charm (up to 0.75 s extra safety after a stumble) and Sweetheart Locket (heart pickups up to 27% more frequent).
 - **Known gaps.** The balance numbers are tuned on bot runs, not a human on a phone, and the audio has not been listened to on a device. A few of the new landmark silhouettes are still close in outline to a neighbour.
+
+
+## Update: The Long Road (1000 realms)
+- 1000 realms in total. Realms 1-150 are hand-built; 151-1000 are generated with their own name, palette, landmark silhouette (composited from the hand-built set), props, hazards, critters, boss, chaser, gameplay profile and story line. The first Book ends at realm 150 (the pen is yours); the full story ends at realm 1000.
+- Every realm is 5x longer. Bosses now hurl bouncing boulders you must dodge. Flying enemies are gone.
+- New: Sky Trick / Cloud Dancer / Starshot high-air tricks, Shooting Star, Lucky Clover and Silver Bell boosters, richer parallax scenery, realm/stat panel, live MPH gauge, Text Size option (Normal to Huge), readable popups.
+- Economy rebalanced: workshop and wardrobe cost more, realm bonuses pay about 4x more.
+- Storybook is paged 50 realms at a time.
+
+## Update: Wonderland, Oz, and signature scenery
+- Realms 151-155 are a hand-built Wonderland run (Rabbit Burrow, Mad Tea Party, Queen's Croquet Court, Cheshire Wood, Caterpillar's Mushroom Meadow) and 156-160 an Oz run (Yellow Brick Road, Emerald City, Poppy Fields & Twister, Witch's Castle, Munchkinland), each with a bespoke landmark, palette, props, critters, boss and story.
+- Every realm now has 5 props and 3 critter types (new critters: rabbit, cat, dog, hedgehog, owl, snail, butterfly, crab, jellyfish).
+
+## Update: Neverland and the Jungle Book
+- Realms 161-165 (Second Star, Skull Rock Cove, Lost Boys' Treehouse, Mermaid Lagoon, Fairy Hollow) and 166-170 (Council Rock, Bagheera's Jungle, Kaa's Cold Lairs, Monkey People's Banyan, Baloo's Honey Falls) are hand-built.
+- The Cheshire Cat's grin is now bold and readable at a distance.
+
+## Update: difficulty curve
+- Hazard density, speed and boss attack counts now follow a gentle curve: 1.0x at the start, easing to a 1.35x plateau around realm 600 instead of climbing steadily.
+- The Second Star to the Right landmark got a bigger clock tower, longer star trail and a larger star.
+
+## Update: realms 171–180 and the MPH gauge
+- New hand-built realms: The River Bank, The Wild Wood, Toad Hall, Camelot, The Sword in the Stone, Peter Rabbit's Garden, The Secret Garden, Heidi's Alps, Crusoe's Island, Treasure Island. Each has its own landmark, five signature props, three critters, boss, story and terrain feel.
+- The MPH gauge now levels off around 120 and can only creep slightly past it.
+
+## Update: the landmark kit
+- Realms 181–1000 now build their landmark from 30 hand-drawn parts (towers, windmills, giant trees, bridges, ships, lighthouses, pagodas, ziggurats, volcanoes, carnival wheels and more), each chosen to match the realm's theme and varied per realm.
+- 36 new themed props (igloos, cupcakes, beehives, lanterns, anvils and others) feed into those realms' five signature props.
+
+## Update: realms 181–190, more kit parts, Huge-text fixes
+- New hand-built realms: Baba Yaga's Hut, The Firebird's Orchard, The Breadcrumb Wood, Red's Wolf Wood, The Snow Queen's Palace, Swan Lake, Urashima's Dragon Palace, Don Quixote's Windmills, The Labyrinth of the Minotaur, Icarus and the Wax Wings.
+- 8 more landmark kit parts (stone circle, spiral tower, waterfall, whale, pine grove, teahouse, dragon ribs, village) widen the variety of realms 191–1000.
+- At Huge text size, the realm banner no longer overlaps the hint line or runs off screen.
+
+## Update: realms 191–200
+- New hand-built realms: The Nutcracker's Sweet Kingdom, The Kitsune's Torii Path, Tanuki's Teapot Hill, The Leprechaun's Rainbow End, The Isle of Avalon, Atlantis Rising, The Golem of Prague, The Yeti's Peak, The Kraken's Reef, The Tower of Babel.
+- The results screen scrolls cleanly at Huge text, with all buttons reachable.
+
+## Update: realms 201–210
+- New hand-built realms: Beowulf's Mead Hall, Circe's Island, The Cyclops' Cave, Pegasus Meadow, Quetzalcoatl's Feathered Pyramid, The Pharaoh's Sun Barge, Dragon Gate Falls, Simurgh's Mountain, Thunderbird's Mesa, The Nightingale's Porcelain Palace.
+- The Kitsune and Tanuki landmarks are larger and easier to read at a distance.
+
+## Update: kit widening (stage 1)
+- 16 new landmark parts (cathedral, observatory, pier, treehouse, airship, rock spires, cloud castle, giant flower, sand castle, totems, bamboo pavilion, crooked house, snow village, forge, bell tower, hedge gate) now feed realms 211-1000.
+- ~22 new scenery props (sled, wreath, kite, buoy, net, parasol, fountain, well, campfire, telescope, compass, gear and more) mixed into every theme.
+
+## Update: stage 2 (60 hero realms)
+- 60 named tales hand-composed across realms 216-996 (every 13th realm): Hansel & Gretel, Flying Dutchman, Medusa, Anubis, Fenrir, Jormungandr, Valkyries, Phoenix, Sphinx, Hydra, Cerberus, Moby Dick, Great Wall, White Snake, Flame Mountains, Chang'e, Yuki-onna, Kappa, Oni, Issun-boshi, Mansa Musa, Great Zimbabwe, Domovoi, Sleipnir, Merlin, Green Knight, St George, Dick Whittington, Jack the Giant Killer, Tom Thumb, Banshee, Br'er Rabbit, Hiawatha, Fox Fire, Scheherazade, Genie, Flying Carpet, Snowman, Red Shoes, Little Fir Tree, Shadow, Cinderella's Hazel Tree, Troll Market, Rikki-Tikki-Tavi, Elephant's Child, Lancelot, Tristan & Isolde, Tom Sawyer, Huck Finn, Frankenstein, Dracula, Phantom, Ozma's Tik-Tok, Baskervilles, Hercules, Bellerophon, Prometheus, Wayland, Jack Frost, Mother Goose.
+- Each has its own landmark scene (28 new emblem figures combined with the kit), palette, 5 props, 3 critters, boss, chaser, story line and terrain profile.
+- Circe's pigs and the Pharaoh's Sun Barge redrawn.
+
+## Update: stage 3 (audit and final pass)
+- Audited all 1000 landmarks: no blank, no duplicate scenes.
+- Early realms (1-150) landmarks drawn 1.5x larger so they read at speed.
+- Low/flat kit scenes (villages, hill houses, piers) now swapped or enlarged so every realm has a readable skyline.
+- Bot balance run across realms 1, 150, 215, 300, 450, 600, 800, 970, 1000: smooth, no difficulty spikes at hero realms.
+
+## Update: weak landmark fixes
+- Medusa now has a snake-haired head, Wayland a working anvil and hammer, the Red Shoes are real heeled shoes.
+
+## Update: scene pass, stage 1 of 5
+- Name-driven composed scenes (kit + figures) for realms 1-150 and 211-236; the old icons stay as a companion on realms 1-150.
+
+## Update: scene pass, stage 2 of 5
+- Name-driven scenes now cover realms 1-150 and 211-412; more name keywords, theme creatures for realms with no named creature, plain (glow-free) birds, more variety for book/orchard realms.
+
+## Update: scene pass, stage 3 of 5
+- Name-driven scenes now cover realms 1-150 and 211-588; mermaid/selkie/quay words now draw piers, reefs, lighthouses and ships instead of whales.
+
+## Update: scene pass, stage 4 of 5
+- Name-driven scenes now cover realms 1-150 and 211-764.
+
+## Update: scene pass, stage 5 of 5 (final)
+- Name-driven scenes now cover every realm: 1-150 and 211-1000, plus the 120 hand-built heroes (151-210 and 60 spread through 216-996).
+- Final audit: 1000 landmarks, no blanks, no duplicates; bot balance run smooth across the range; render time flat across realms.
+
+## Final: Realm 1000, "The Thousandth Page"
+Realm 1000 is now a hand-built grand finale: a library-cathedral on a stepped hill under a giant open book, with rotating light rays, a rainbow arch, drifting pages, a beanstalk to a cloud castle, windmill, lighthouse, dragon and birds. It is drawn 1.5x larger than other landmarks and has its own boss (Hush, the Unwriter), chaser, story text, props and critters.

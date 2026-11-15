@@ -49,11 +49,11 @@ Fairy Wings (fly), Wisp Lantern (light the dark), Seven-League Boots (smash haza
 ### Set pieces and bosses
 
 - **Falling Stars** and **Gold Rush** set pieces fill the sky or ground with coins.
-- Halfway through every realm a **realm boss** appears (30 distinct bosses: giants, dragons, a djinn, serpents, queens, beasts, a walking hut and more). Dodge their attacks to outlast them. Take no hits for a **Flawless** bonus.
+- Halfway through every realm a **realm boss** appears (150 distinct bosses: giants, dragons, a djinn, serpents, queens, beasts, a walking hut and more). Dodge their attacks to outlast them. Take no hits for a **Flawless** bonus.
 
 ---
 
-## The 30 realms
+## The 150 realms
 
 Each realm has its own palette, parallax landscape, landmark, props, hazards, critters, chaser, boss, weather, music key and a **play style** (gravity, wave size, and what shows up most), so no two feel the same.
 
@@ -88,7 +88,7 @@ Each realm has its own palette, parallax landscape, landmark, props, hazards, cr
 29. The Troll Bridge Fjord
 30. The Selkie's Shore
 
-After realm 30 the book starts again as **Tale II**, then Tale III and beyond: same realms, faster and richer (coin rewards grow with each Tale). The game is endless.
+After realm 150 the book starts again as **Tale II**, then Tale III and beyond: same realms, faster and richer (coin rewards grow with each Tale). The game is endless.
 
 Examples of realm play styles: slick **ice** (Frostwood, the Duckling's Pond, Troll Bridge) keeps your speed; **bouncy** ground (Gingerbread Dunes, Three Little Pigs); giant **dunes** for dives and slingshots; **rails** (Beanstalk, Dwarves' mine, Troll Bridge); **loops** (Spinning Hall); **wall rides** (Jade Palace, Rose Garden); **low gravity** (Moon Grove); **tailwinds** (Marquis Fields); **wings** (Firebird's Orchard).
 
@@ -99,10 +99,10 @@ The day/night cycle, weather (snow, petals, glitter, bubbles, embers, sand, mist
 ## Progression
 
 - **Quests and rank.** Each rank presents a set of quests (distance, coins, flips, grinds, critters, combos, perfect landings, wolf escapes, realms visited, airtime). Complete them all to **rank up**.
-- **Heroes (16).** New heroes unlock as your rank rises (rank 1 to 30), each with a perk: Little Red, Gretel, Jack, Scheherazade, Briar Rose, Gerda, Cinderella, Little Mermaid, The Piper, Rapunzel, The Frog Prince, The Nutcracker, The Birch Crone, Thumbelina, The Nightingale, The Snow Queen.
-- **Workshop (13 upgrades).** Hearthstone, Fairy Wings, Wisp Lantern, Seven-League Boots, Golden Goose, Magic Mirror, Coin Charm, Golden Purse, Padded Cloak, Showman's Flair, Fairy Luck, Fairy Godmother, Wolf Ward. Bought with coins; each has multiple levels.
+- **Heroes (40).** New heroes unlock as your rank rises (rank 1 to 78), each with a perk: Little Red, Gretel, Jack, Scheherazade, Briar Rose, Gerda, Cinderella, Little Mermaid, The Piper, Rapunzel, The Frog Prince, The Nutcracker, The Birch Crone, Thumbelina, The Nightingale, The Snow Queen.
+- **Workshop (22 upgrades).** Hearthstone, Fairy Wings, Wisp Lantern, Seven-League Boots, Golden Goose, Magic Mirror, Coin Charm, Golden Purse, Padded Cloak, Showman's Flair, Fairy Luck, Fairy Godmother, Wolf Ward. Bought with coins; each has multiple levels.
 - **Wardrobe.** Sleds: Silver Spoon, Gingerbread Sleigh, Pumpkin Coach, Glass Slipper, Magic Carpet, Swan Boat, Crescent Moon, Dragon Scale. Trails: Stardust, Rose Petals, Bubbles, Embers, Piper Notes, Hearts, Rainbow Ribbon, Comet Tail. Each has a live preview.
-- **Trophies (66).** Distance, tricks, bosses, loops and walls, realms, wardrobe, festivals, daily streaks, sharing and more, each with a coin reward.
+- **Trophies (71).** Distance, tricks, bosses, loops and walls, realms, wardrobe, festivals, daily streaks, sharing and more, each with a coin reward.
 - **Realms book.** Jump back to start from any realm you have reached.
 
 ---
@@ -153,3 +153,52 @@ Honest gaps:
 ## Credits
 
 Design and build by Tim with Claude. All art, music and effects are generated in code. Fairytale characters and settings are drawn from traditional folk and fairy tales in the public domain.
+
+
+## Update: 100 realms, a real story, and a bigger wardrobe
+
+### The story
+The game is called Tales Untold because the Great Storybook is losing its endings. You are the Wayfarer, a reader who fell in, and a small ink-sprite named Quill travels beside you. Something (or someone) called the Unwriter is tearing out the last pages. Each realm's boss holds a page; beating it restores it.
+
+The story is told without ever pausing play:
+- When you reach a realm for the first time, a short story passage fades in under the realm name (about 9 seconds, top of the screen).
+- Defeating a boss shows 'Page restored'.
+- The whole story is collected in **Realms > Read the Story**, split into five acts: The Torn Page, The Apprentice, The First Storyteller, The Margins and The Unwriting.
+- (Moved to realm 150, see the final update.) Beating the boss of the final realm plays the finale and unlocks the trophy The Final Line. The book then starts again as Tale II.
+
+### 50 new realms (51-100)
+Bluebeard's Forbidden Corridor; The Snow Maiden's Birch Thaw; The Little Match Girl's Winter Street; Vasilisa's Lantern Wood; Koschei's Needle Island; The Fisher King's Grail Marsh; Tam Lin's Faerie Ride; Finn McCool's Giant's Causeway; The Children of Lir's Lake; Jason's Golden Fleece Grove; Orpheus's Echoing Descent; Daedalus's Labyrinth of Wings; The Monkey King's Flower-Fruit Mountain; The Cowherd & Weaver Girl's Magpie Bridge; The Tengu's Cedar Peaks; Maui's Fishhook Isles; Coyote's Starry Mesa; Raven's Cedar Shore; The Rainbow Serpent's Dreaming Creek; Sedna's Frozen Deep; Baron Munchausen's Cannonball Skies; Gulliver's Tiny Shore; The Land of Cockaigne; The Owl & the Pussycat's Pea-Green Sea; The Jabberwock's Tulgey Wood; The Never-Ending Lighthouse; The Sandman's Dream Dunes; The Brave Little Tailor's Giant Pass; The Water of Life's Hidden Spring; The Twelve Months' Bonfire Meadow; The Midnight Library's Index; The Ink Sea; The Margin Mountains; The Dog-Eared Dunes; The Footnote Forest; The Table of Contents Terraces; The Bookbinder's Thread Bridges; The Erased Village; The Blank Plains; The Unwriter's Quiet Court; The Torn-Page Canyons; The Chapter Break Cliffs; The Cliffhanger Spires; The Plot Twist Whirl; The Last Chapter Stair; The Epilogue Orchard; The Back Cover Cliffs; The First Line; The Reader's Lamp; Happily Ever After.
+The last 20 are the Book itself: the Midnight Library's Index, the Ink Sea, the Margin Mountains, the Blank Plains, the Unwriter's Quiet Court and more.
+
+### More heroes, wardrobe and upgrades
+- **14 new heroes (ranks 32-58):** Aladdin, Puss in Boots, Robin Hood, Momotaro, Kaguya, Sindbad, Snow White, The Selkie, The Match Girl, Brave Little Tailor, Anansi, Pinocchio, The Sandman and The Wayfarer. Perks are small (5-35%) so no hero is a must-have.
+- **Wardrobe:** 8 new sleds, 8 new trails, 10 cloak dyes and 17 hats (any hat on any hero, cosmetic only).
+- **5 new upgrades:** Heart Spark, Traveler's Satchel, Combo Candle, Feather Fall, Storyteller's Quill. Each has 5 levels with modest effects.
+- **Hearthstone rebalanced:** levels 1-3 give 2 starting hearts, 4-5 give 3 (before, levels 4-5 did nothing because of the heart cap).
+- **Realm bonus capped:** the per-realm coin bonus now stops growing after 12 realms of distance so the 100-realm economy stays sane.
+- **Camera:** the background no longer stretches or slides when the camera zooms out on high jumps, and the ground always stays in view.
+- **Boss attacks:** far rarer (4-6 per boss), at least 2.8 s apart, and only launched while you are on the ground and steady.
+- New trophies: Happily Ever After (realm 100), Page Turner (25 bosses), The Whole Book (100 bosses), The Final Line (finish the story).
+
+### Known gaps
+- Not tested on a physical phone; audio has never been listened to by the developer.
+- Realms 51-100 share a smaller set of landmark shapes (assembled from about 25 building blocks), so some silhouettes resemble each other.
+- Older saves will see Tale boundaries move because each Tale is now 100 realms; nothing is lost.
+
+## Update: slime-only bosses, harder to survive
+- The pink ground circles are gone. Bosses now only send slime waves, which you jump over.
+- Easier to die: max hearts is 3, hearts refill more slowly, each stumble costs 300 m of lead on the chaser (was 240), chasers start closer and speed up faster. Hearthstone gives 2 starting hearts at levels 1-3 and 3 hearts at levels 4-5.
+
+## Update: realms 101-150 (Act VI: The Unwritten Shelves)
+(Superseded by the update below: the ending now plays at realm 150.) Realm 100 is now the midpoint of Act V/VI. Act VI is 50 more realms of unfinished tales that Hush the Bookbinder asks you to help complete, each with its own story passage, boss, chaser, palette, hazards and critters:
+The Bookbinder's Workshop; Grandmother's Mushroom Cottage; The Juniper Tree's Songbird; The Goose Girl's Falling Horse Gate; The Six Servants' Great Race; The Magic Porridge Pot's Overflowing Town; The Master Thief's Midnight Rooftops; The Three Spinners' Loom Hall; Hans in Luck's Rolling Road; The Musicians of Bremen's Robber Cottage; The Tortoise & the Hare's Racetrack; The Ant & the Grasshopper's Summer Field; The Lion & the Mouse's Savannah Snare; The Boy Who Cried Wolf's Hillside; The Wooden Horse of Troy's Beach; Odysseus's Sirens' Strait; Perseus's Mirror Shield Isle; King Midas's Golden Garden; Atalanta's Golden Apple Race; Pandora's Hopeful Box; Gilgamesh's Cedar Gate; The Weighing of the Heart Dunes; Isis & Osiris's Reed Delta; Thor's Giant Fishing Trip; Freya's Cat-Drawn Meadow; Yggdrasil's Root Canyon; Baldur's Mistletoe Grove; Sigurd's Dragon Hoard; Sadko's Sea King Court; Ilya Muromets' Steppe; The Kalevala's Sampo Mill; Vainamoinen's Kantele Isle; The Mabinogion's Flower-Maiden Hills; Oisin's Tir na nOg Shore; Cu Chulainn's Hound Fields; The Pooka's Moonlit Bog; Rip Van Winkle's Catskill Nap; Sleepy Hollow's Pumpkin Ridge; Paul Bunyan's Giant Pines; John Henry's Railroad Steel; Johnny Appleseed's Orchard Trail; Pecos Bill's Tornado Plains; Quetzalcoatl's Feathered Stair; Mami Wata's Pearl Lagoon; Kintaro's Bear Mountain; Nezha's Lotus Pond; Hanuman's Mountain Leap; The Thousand Cranes' Paper Sky; The Unfinished Tales' Waiting Room; Once More Upon a Time.
+The book now starts again as Tale II after realm 150. New trophy: Once More Upon a Time (realm 150).
+
+## Update: the ending moves to realm 150, new silhouettes, more wardrobe
+- **The ending is now realm 150.** Beating the boss of realm 150 plays "The End" and awards The Final Line and Happily Ever After (renamed trophy for reaching realm 150). Realm 100 is now a midpoint (trophy: A Hundred Pages) and is renamed The Borrowed Pen. Tale II still starts afterwards.
+- **Landmark pass.** All realms from 51 to 150 got a bespoke background landmark instead of recombined shared shapes (a giant key for Bluebeard, an hourglass for the Sandman, scissors for the Tailor, a locomotive for John Henry, and so on), plus new silhouettes for the Briar Rose and Tinderbox realms. A contact-sheet check of all 150 landmarks cut the number of near-duplicate pairs from 249 to about 57, and the remainder are mostly small, blobby shapes (bears, pumpkins, mounds).
+- **New ground props** (books, quills, pencils, loose pages, lampposts, apples, pumpkins, haystacks, cairns, feathers, keys) now dress the realms they fit, mostly the story-themed and book-themed realms.
+- **10 more heroes (ranks 60 to 78).** Vasilisa, The Kitsune, Sun Wukong, Maui, Odysseus, Mother Holle, The Goose Girl, Raven, Hush the Bookbinder and Quill. Perks stay modest (about 7 to 35% on one stat); the strongest are single-stat boosts.
+- **Wardrobe.** 13 more hats, 9 more dyes, 8 more sleds and 8 more trails (Drifting Feathers, Golden Pollen, Tiny Lanterns, Paper Cranes, Sugar Sprinkles, Aurora Ribbon, Thunder Sparks, Lotus Drift).
+- **4 more Workshop upgrades.** Soft Slippers (perfect-landing window up to +41%), Giant-Slayer's Shield (boss slime waves up to 20% slower), Afterglow Charm (up to 0.75 s extra safety after a stumble) and Sweetheart Locket (heart pickups up to 27% more frequent).
+- **Known gaps.** The balance numbers are tuned on bot runs, not a human on a phone, and the audio has not been listened to on a device. A few of the new landmark silhouettes are still close in outline to a neighbour.
